@@ -10,8 +10,8 @@ I'm **Caro**, also called **koi** — a Year 2 FinTech student based in Kuala Lu
 
 I explore **AI agents, Web3, FinTech, quantitative research, payments, data analysis, and risk management**. I also enjoy building small creative projects and interactive stories.
 
-- **Clori** is my public creative identity — the name I use for projects and things I build.
-- **Kokao** is my personal device ecosystem — the name I use for my computers, local environments, and digital workspace.
+<p><sub><strong>Clori</strong> is my public creative identity — the name I use for projects and things I build.<br>
+<strong>Kokao</strong> is my personal device ecosystem — the name I use for my computers, local environments, and digital workspace.</sub></p>
 
 ## Featured projects
 
