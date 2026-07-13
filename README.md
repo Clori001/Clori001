@@ -23,7 +23,7 @@ I explore **AI agents, Web3, FinTech, Quant, payments, data analysis, and risk m
 ## Featured projects
 
 - 🧠 [LUCID](https://github.com/Clori001/lucid-cognitive-triage-agent) — A cognitive safety agent for scam-pressure triage.
-- 🌅 [Sunrisee](https://github.com/Clori001/sunrisee_renpy_word_game) — A short pixel-style Ren'Py visual novel about time, memory, choices, and farewell.
+- 🌅 [Sunrisee](https://github.com/Clori001/sunrisee_renpy_word_game) — A short pixel-style Ren'Py visual novel about time, memory, choices, and farewell—with a touch of philosophy.
 - 📈 [QQQ Quant Trend + Momentum](https://github.com/Clori001/qqq-trend-momentum-quant-research) — A reproducible quant project covering signal design, strategy development, backtesting, and analysis.
 - ⛓️ [CopyrightChain](https://github.com/Clori001/copyrightchain-demo) — A Web3 demo for digital copyright registration and public review.
 
