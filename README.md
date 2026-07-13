@@ -13,6 +13,10 @@ I explore **AI agents, Web3, FinTech, quant, payments, data analysis, and risk m
 <p><sub><strong>Clori</strong> is my public creative identity — the name I use for projects and things I build.<br>
 <strong>Kokao</strong> is my personal device ecosystem — the name I use for my computers, local environments, and digital workspace.</sub></p>
 
+## Tech
+
+Python · C · MySQL · Solidity · TypeScript · JavaScript · React · Git · Ren'Py
+
 ## Featured projects
 
 - 🧠 [LUCID](https://github.com/Clori001/lucid-cognitive-triage-agent) — A cognitive safety agent for scam-pressure triage.
