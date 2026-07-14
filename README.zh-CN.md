@@ -1,5 +1,7 @@
 [English](README.md) | **中文**
 
+![Python](https://img.shields.io/badge/Python-Quant_%26_Data-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Web_%26_AI-3178C6?logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-Web3-363636?logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Data-4479A1?logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black) ![Ren'Py](https://img.shields.io/badge/Ren'Py-Interactive_Stories-FF7F7F)
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+Caro.;%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91+koi.;%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%AD%A6%E7%94%9F+%26+Builder;%E5%9D%90%E6%A0%87%E5%90%89%E9%9A%86%E5%9D%A1" alt="打字效果个人介绍" />
