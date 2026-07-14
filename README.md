@@ -1,5 +1,3 @@
-**English** | [中文](README.zh-CN.md)
-
 ![Python](https://img.shields.io/badge/Python-Quant_%26_Data-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-Web_%26_AI-3178C6?logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-Web3-363636?logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Data-4479A1?logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black) ![Ren'Py](https://img.shields.io/badge/Ren'Py-Interactive_Stories-FF7F7F)
 
 <div align="center">
